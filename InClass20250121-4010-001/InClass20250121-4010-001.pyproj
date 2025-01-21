@@ -21,6 +21,114 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="mainPackage\001.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\002.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\003.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\004.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\005.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\006.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\007.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\008.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\009.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\010.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\011.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\012.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\013.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\014.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\015.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\016.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\017.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\018.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\019.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\020.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\021.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\022.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\023.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\024.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\025.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\026.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\027.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\028.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\029.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\030.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\031.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\032.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\033.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\034.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\035.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\036.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="mainPackage\main.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
