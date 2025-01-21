@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="mainPackage\001.py">
+    <Compile Include="mainPackage\a001.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mainPackage\002.py">
