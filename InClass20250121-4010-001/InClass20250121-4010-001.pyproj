@@ -84,7 +84,7 @@
     <Compile Include="mainPackage\a021.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="mainPackage\022.py">
+    <Compile Include="mainPackage\a022.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mainPackage\023.py">
